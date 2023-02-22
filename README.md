@@ -1,2 +1,2 @@
 # visualizador
-Bootstrap / Leaflet / Visualizador
+Bootstrap / Leaflet / Javascript / Visualizador Web
